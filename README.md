@@ -1,1 +1,1 @@
-# arApp
+# AIApp
